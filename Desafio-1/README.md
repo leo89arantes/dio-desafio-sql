@@ -1,8 +1,8 @@
 # Construindo o Primeiro Projeto Lógico de Banco de Dados
 
-[![Ecommerce](https://img.shields.io/badge/Ecommerce-orange?style=for-the-badge)](https://github.com/alves05/Modelagem-Dados-Projetos-Logicos-SQL/tree/main/Desafio-1/E-commerce)
+[![Ecommerce]([https://img.shields.io/badge/Ecommerce-orange?style=for-the-badge)](https://github.com/alves05/Modelagem-Dados-Projetos-Logicos-SQL/tree/main/Desafio-1/E-commerce](https://github.com/leo89arantes/dio-desafio-sql/tree/main/Desafio-1/E-commerce))
 
-[![Ecommerce refinado](https://img.shields.io/badge/Ecommerce--refinado-orange?style=for-the-badge)](https://github.com/alves05/Modelagem-Dados-Projetos-Logicos-SQL/tree/main/Desafio-1/E-commerce_refinado)
+[![Ecommerce refinado]([https://img.shields.io/badge/Ecommerce--refinado-orange?style=for-the-badge)](https://github.com/alves05/Modelagem-Dados-Projetos-Logicos-SQL/tree/main/Desafio-1/E-commerce_refinado](https://github.com/leo89arantes/dio-desafio-sql/tree/main/Desafio-1/E-commerce_refinado))
 
 
 ## Descrição do Desafio
